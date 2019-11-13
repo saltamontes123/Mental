@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mental</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="clave">Contraseña</string>
+    <string name="registrar">Registrar</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="nombre">Nombre usuario</string>
+
+    <!-- string ids for registration.xml -->
+    <string name="username_textview">Username:</string>
+    <string name="password_textview">Password:</string>
+    <string name="submit">Submit</string>
+</resources>
